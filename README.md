@@ -42,8 +42,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/seftianainuly/seftianainuly/output/snake.svg" alt="Snake animation" />
-
-###
