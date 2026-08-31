@@ -70,9 +70,3 @@ Pastikan Anda sudah menginstall perangkat lunak berikut:
 - [Git](https://git-scm.com/)
 - Code Editor (seperti [VS Code](https://code.visualstudio.com/))
 - Browser modern (Chrome, Edge, Firefox)
-
-### Installation Steps
-
-1. **Clone repositori ini:**
-   ```bash
-   git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
