@@ -10,7 +10,7 @@
 ---
 
 ## 📑 Table of Contents
-- [About Me](#-about-me)
+- [👨‍💻 About Me](#-about-me)
 - [✨ Main Features / Strengths](#-main-features--strengths)
 - [💻 Tech Stack](#-tech-stack)
 - [🚀 Quick Start & Local Setup](#-quick-start--local-setup)
