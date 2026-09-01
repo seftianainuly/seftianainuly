@@ -14,9 +14,6 @@
 - [✨ Main Features / Strengths](#-main-features--strengths)
 - [💻 Tech Stack](#-tech-stack)
 - [🚀 Quick Start & Local Setup](#-quick-start--local-setup)
-- [🔑 Environment Variables](#-environment-variables)
-- [🤝 Contributing](#-contributing)
-- [📄 License & Contact](#-license--contact)
 
 ---
 
