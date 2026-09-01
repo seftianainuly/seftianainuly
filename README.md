@@ -27,6 +27,7 @@ Hello! Saya **Seftian Ainul Yaqin**, seorang pelajar yang sedang mendalami dunia
 - 🎓 **Status:** Pelajar (Student)
 - 💼 **Fokus:** Frontend Development & UI/UX Design
 - 🎯 **Tujuan:** Menjadi Full-Stack Developer profesional yang mampu membangun aplikasi web skalabel dan berkinerja tinggi.
+- 🚩 **Next** Sedang belajar Javascript lalu ke React
 
 ---
 
