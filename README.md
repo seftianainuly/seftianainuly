@@ -70,4 +70,4 @@ Pastikan Anda sudah menginstall perangkat lunak berikut:
 - Browser modern (Chrome, Edge, Firefox)
 
 ## My Statistik
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=seftianainuly&show_icons=true&theme=radical)
+![Statistik GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=seftianainuly&show_icons=true&theme=radical)
