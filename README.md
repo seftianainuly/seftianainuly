@@ -68,3 +68,6 @@ Pastikan Anda sudah menginstall perangkat lunak berikut:
 - [Git](https://git-scm.com/)
 - Code Editor (seperti [VS Code](https://code.visualstudio.com/))
 - Browser modern (Chrome, Edge, Firefox)
+
+## My Statistik
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=seftianainuly&show_icons=true&theme=radical)
