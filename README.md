@@ -71,5 +71,3 @@ Pastikan Anda sudah menginstall perangkat lunak berikut:
 
 ## My Statistik
 ![Bahasa Terbanyak](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seftianainuly&layout=compact&theme=radical)
-
-![Bahasa Terbanyak](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seftianainuly&theme=radical)
