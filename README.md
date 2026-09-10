@@ -50,7 +50,7 @@ Berikut adalah poin-poin utama yang saya terapkan dalam setiap proyek yang saya 
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | Utility-first CSS framework untuk styling cepat |
 
 ### Tools & Ecosystem
-| Tool | Usage |
+| Tool | Usage 
 | :--- | :--- |
 | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Code Editor utama |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Version Control System |
